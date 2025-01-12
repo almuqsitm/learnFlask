@@ -1,0 +1,1 @@
+This is a repo for me to learn more about Flask. It follows a video created by Tech With Tim.
